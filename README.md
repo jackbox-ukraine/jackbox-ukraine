@@ -6,7 +6,6 @@
   
 Підтримати нас можна тут:
 - [Patreon](https://www.patreon.com/jackbox_ukraine)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/jackbox.ua)
 - [Donatello](https://donatello.to/jackbox_ukraine)
 
 Усі переклади можна завантажити за посиланням: https://jackbox.in.ua/releases
